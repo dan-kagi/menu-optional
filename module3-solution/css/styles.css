@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-size: 16px;
+    font-family: "Anek Devanagari", sans-serif;
+    margin: 0px 0px 0px 0px;
+}
+
+#nav-header{
+    background-color: #34ebc6;
+    margin-bottom: 20px;
+}
+
+#company-name{
+    font-size: 1.8em;
+    margin-left: 10px;
+}
+
+#options{
+    font-size: 1.2em;
+}
+
+#main-container{
+    width: 95%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.food{
+    background-color: #21a9ad;
+    padding:10px;
+    width:100%;
+    margin-bottom: 20px;
+}
+
+.food a {
+    color: blue;
+}
